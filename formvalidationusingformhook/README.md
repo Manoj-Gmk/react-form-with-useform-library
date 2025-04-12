@@ -1,64 +1,79 @@
-React Form with useForm Library
+# React Form with useForm Library
+
 This is a professional and user-friendly form application built using React and the useForm library. The form handles real-time input, performs validation, and provides clear feedback for the user.
 
-🚀 Project Purpose
+## 🚀 Project Purpose
+
 The purpose of this project is to demonstrate how to build a clean and professional form using React, leveraging the useForm library to handle validation and input management efficiently. The form includes First Name, Last Name, Email, Contact Number, Gender, Resume Upload, and an About section. It uses real-time validation for critical fields.
 
-📸 Screenshots
-[Form UI Screenshot](Screenshot.png)
+## 📸 Screenshots
 
-🔗 GitHub Repository
+
+[Form UI Screenshot](Screenshot/Screenshot.png)
+
+## 🔗 GitHub Repository
+
 https://github.com/Manoj-Gmk/react-form-with-useform-library
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-React
+- React
+- React-Hook-Form (useForm)
+- Vite
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-React-Hook-Form (useForm)
+## 📁 Project Setup
 
-HTML5
+### 1. Clone the repository
 
-CSS3
-
-JavaScript (ES6+)
-
-📁 Project Setup
-
-Clone the repository
+```bash
 git clone https://github.com/Manoj-Gmk/react-form-with-useform-library.git
+```
 
-Navigate to the project directory
+### 2. Navigate to project directory
+
+```bash
 cd formvalidationusingformhook
+```
 
-Install dependencies
+### 3. Install dependencies
+
+```bash
 npm install
+```
 
-Run the development server
+### 4. Run the development server
+
+```bash
 npm run dev
+```
 
-Open in the browser
+### 5. Open in browser
+
 Visit: (http://localhost:3000)
 
-🧠 Features
+## 🧠 Features
 
-Form fields: First Name, Last Name, Email, Contact, Gender, Resume Upload, About section
+- Form fields: First Name, Last Name, Email, Contact, Gender, Resume Upload, About section
 
-Real-time validation and feedback for important fields
+- Real-time validation and feedback for important fields
 
-Form reset and submit functionality
+- Form reset and submit functionality
 
-Error messages for validation failures
+- Error messages for validation failures
 
-Clear, responsive, and professional UI
+- Clear, responsive, and professional UI
 
-Easy-to-use interface and modern design
+- Easy-to-use interface and modern design
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
-Name: Manoj
+**Name:** Manoj  
+**Role:** Frontend Developer (Fresher)  
+**GitHub:** https://github.com/Manoj-Gmk
 
-Role: Frontend Developer (Fresher)
+---
 
-GitHub: https://github.com/Manoj-Gmk
-
-Thank you for visiting! 🌟 Feel free to contribute or provide feedback.
+Thank you for visiting! 🌟 Feel free to contribute or give feedback.
