@@ -28,13 +28,13 @@ Clone the repository
 git clone https://github.com/Manoj-Gmk/react-form-with-useform-library.git
 
 Navigate to the project directory
-cd react-form-with-useform-library
+cd formvalidationusingformhook
 
 Install dependencies
 npm install
 
 Run the development server
-npm start
+npm run dev
 
 Open in the browser
 Visit: (http://localhost:3000)
