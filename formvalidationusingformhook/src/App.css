@@ -1,0 +1,129 @@
+body {
+  background-color: #f0f2f5;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Main Container */
+.container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 26px;
+}
+/*Success*/
+.success-text {
+  background-color: #d4edda;
+  color: #155724;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #c3e6cb;
+  font-size: 14px;
+}
+
+
+/* Label Styling */
+label {
+  font-weight: 600;
+  margin-top: 15px;
+  display: block;
+  color: #555;
+  font-size: 14px;
+}
+
+/* Input and Textarea Styling */
+input,
+textarea {
+  width: 90%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+/* Focus Effect */
+input:focus,
+textarea:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 4px #007bff44;
+}
+
+/* Gender Radio Group */
+input[type="radio"] {
+  margin-right: 6px;
+  accent-color: #007bff;
+  cursor: pointer;
+  width: auto;
+}
+
+/* Resume input */
+input[type="file"] {
+  padding: 5px 0;
+}
+
+/* Textarea Styling */
+textarea {
+  resize: none;
+  width: 90%;
+  min-height: 100px;
+  max-height: 150px;
+}
+
+/* Error Text (optional if needed) */
+.error-text {
+  color: red;
+  font-size: 13px;
+  margin-top: 3px;
+  display: block;
+}
+
+/* Button Group Aligned Right */
+.button-group {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+/* Common Button Styling */
+button {
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+/* Submit Button */
+.submit-btn {
+  background-color: #007bff;
+  color: white;
+}
+
+.submit-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Reset Button */
+.reset-btn {
+  background-color: #6c757d;
+  color: white;
+}
+
+.reset-btn:hover {
+  background-color: #5a6268;
+}
